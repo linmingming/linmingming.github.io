@@ -1,0 +1,6 @@
+{
+  "name": "分布式架构师技能养成",
+  "tagline": "devnote",
+  "body": "抽象技能\r\numl业务建模和需求分析\r\numl对象分析和设计\r\n软件架构设计\r\n框架设计\r\napi设计\r\n设计原则和设计模式\r\n算法分析和设计\r\nTDD\r\n代码阅读、代码修改、代码调试\r\n性能优化\r\n\r\njava基础：\r\n枚举 标记 泛型 反射 代理  nio 线程 jvm 加解密 \r\n多语种编程 groovy scala\r\n基础类库：guava apache-common asm cglib\r\n\r\n架构知识\r\n软件架构基础知识\r\n大型网站技术架构\r\n集群 负载均衡 高可用\r\n服务框架\r\n微服务\r\n\r\n中间件\r\nopenresty lua\r\nnginx\r\nredis\r\ndubbo\r\nrabbitmq\r\nzookeeper\r\nmycat\r\nmysql\r\nelk\r\n\r\n大数据分析：\r\nhadoop\r\nspark\r\nstorm\r\n\r\nelasticsearch\r\n机器学习\r\n推荐系统\r\n算法\r\n\r\n系统监控\r\nzabbix\r\n\r\n自动化运维\r\nansible\r\n\r\n性能测试\r\njmeter\r\n\r\n服务器\r\nUbuntu server\r\ndocker\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
